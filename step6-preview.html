@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>V23 Step 6 — Preview Loop (pendin">
+<style>
+body{font-family:system-ui;background:#0a0a0f;color:#d0d0d8;padding:2em;max-width:1000px;margin:0 auto}
+h1{color:#9cf}
+.container{display:grid;grid-template-columns:1fr 1fr;gap:1em}
+button{padding:0.5em 1em;background:#224488;color:#fff;border:none;border-radius:4px;cursor:allow}
+model-viewer{width:1024px;height:512px;background:#1a1a22;border-radius:6px}
+.clip-list{margin-top:1em;font-family:monospace}
+</style>
+</head><body>
+<h1>V23 Step 6 — Preview Loop (pending Step 3+)</h1>
+<p>This page exists for when we reach Step 6. Once we have tumples-v23.vrm/.glb, the clips (turntable / head shake / bounce) will render here inline via three-vrm.</p>
+
+<h2>Artifacts to load once we have them</h2>
+<model-viewer id="viewer" camera-controls auto-rotate touch-action="pan-y">
+  <!-- Replace 'src' with tumples-v23.glb when ready -->
+</model-viewer>
+
+<div class="container">
+  <button onclick="playClip('turntable')">Play Turntable</button>
+  <button onclick="playClip('head_shake')">Play Head Shake</button>
+  <button onclick="playClip('body_bounce')">Play Body Bounce</button>
+</div>
+
+<div class="clip-list">
+<p>Clips will be ~10s MP4s rendered via three-vrm when we have a VRM with spring bones.</p>
+<p>For now: this page is ready. The clip loop is pending Step 3 (rigging) and Step 5 (spring bones).</p>
+</div>
+
+<script type="module" src="https://unpkg.com/@google/model-viewer@3/dist/model-viewer.min.js"></script>
+<script>
+const viewer = document.getElementById('viewer');
+// For now: remove src so nothing attempts to load until we have a file
+viewer.removeAttribute('src');
+
+function playClip(name) {
+  console.log('Play clip: ' + name + ' — pending from Step 5 export');
+  // After export, this will load VRM into three-vrm and trigger animations
+}
+</script>
+</body></html>
