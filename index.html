@@ -28,6 +28,26 @@ img { max-width: 100%; border-radius: 6px; }
 </head>
 <body>
 <div class="container">
+
+<div class="entry">
+<div class="entry-header">
+<div class="entry-title">T2b reroll with rear coverage — failed coherence gate ×2, halted</div>
+<div class="entry-date">2026-08-03 07:00 PT · branch halted per overnight rule</div>
+</div>
+<div class="entry-body">
+<span class="label">Milestone: v23-body-raw-r4-blocked</span>
+<p><strong>Ground truth (no narrative this time).</strong> Two new Meshy runs fired with full approved sheet + new rear repose. Renders pass pose gate cleanly — standing quadruped, tail free, no extras. But the upgraded MESH COHERENCE gate (new critical check per Fable) fails on both: r1 has 532 islands with main_island only 3.8% of faces, tail disconnected in tail region; r2 has 612 islands with same fragility. Generator is fragmenting armor scales into per-scale shells — same class as the duplicate-tail defect.</p>
+<p><strong>Overnight rule hit:</strong> "max 2 Meshy runs; both fail → halt for morning." Halted. No Rodin overnight. Five morning paths queued on STATE.md.</p>
+<p>
+<img src="t1-renders/t2b_r1_side.png"><em>r1 side — renders clean</em>
+<img src="t1-renders/t2b_r1_rear.png"><em>r1 rear — single tail visible</em>
+<img src="t1-renders/t2b_r1_top.png"><em>r1 top</em>
+<img src="t1-renders/t2b_r2_side.png"><em>r2 side</em>
+</p>
+<p>Tasks: r1=019fc655-2598 (rendered clean), r2=019fc655-38ce. Inputs: walk.png, front2.png, threequarter_stand2.png, rear_repose.png (new, committed bd6ea17).</p>
+<a class="commit-link" href="https://github.com/gordongould/tumples-avatar-review">state: halted-morning</a>
+</div>
+</div>
 <header>
   <h1>Tumples V23 Avatar — Review Board</h1>
   <div class="subtitle">Reverse-chronological decision log. Each entry links to its commit.</div>

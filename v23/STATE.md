@@ -33,9 +33,48 @@ Current best candidate: V2 (2img) — scores: id 8.0, pose gate 2/4. Legs not fu
 3. Ask Fable for explicit quadruped pose language that forces leg separation?
 4. Different route: Rodin Creator tier (pre-approved fallback)?
 
-## Morning report
-Current step: STEP 3 — RIG (blocked)
-Holding on: pose gate pass (legs/tail/joints not clean enough in 2 consecutive candidates)
+## Morning report (updated 2026-08-03 07:00 PT — real data)
+Current step: STEP 3 — RIG (blocked by upgraded gate)
+Last action: T2b reroll with rear coverage fired after overnight order armed.
+Outcome: **BOTH new runs failed the gate.**
+
+## Real T2b results (2026-08-03 06:58 PT)
+Meshy tasks:
+- r1: 019fc655-2598-75b2-9c92-eac2893b98f9  (rendered clean)
+- r2: 019fc655-38ce-70c2-a9ba-8896b062afcc  (rendered clean)
+Inputs: 3a-sheet/walk.png + front2.png + threequarter_stand2.png + rear_repose.png (NEW — generated via fal Kontext, identity verified, committed bd6ea17).
+
+Renders (vision-scored):
+- Side: 4 legs, single tail, tail free, no extras. Clean quadruped stance. PASS.
+- Front/Rear/Top: no extra limbs/tails detected; legs partially obscured but visible.
+
+UPGRADED GATE — MESH COHERENCE (critical, geometry-based):
+- t2b_r1: **FAIL** — 532 islands, main_island 20,450 / 532,004 faces (3.8%), 343 non-trivial secondaries. Biggest secondary (13,650 faces) sits in tail region (cy=-0.66) — tail not welded to body.
+- t2b_r2: **FAIL** — 612 islands, main_island 20,354 / 542,122 faces (3.8%), 377 secondaries.
+Verdict: same failure class as v2_fav — generator fragments model into per-scale shells and tail is disconnected geometry. **Both runs fail.**
+
+## Overnight rule applied
+"Max 2 Meshy runs; both fail the gate → halt for morning." HIT. Branch halted. Rodin never overnight.
+
+## What this rules out for the morning call
+- T2a select-linked removal is NOT a fix: candidates are fragmented into hundreds of per-scale shells, not one clean extra lobe. Wouldn't cap cleanly.
+- Prompt tweaks (including negative prompts) do not fix the fragmentation — both T2b runs had explicit "no extra tails" negatives and clean renders, but geometry still fragmented.
+- The Meshy generator's style of "pangolin armor" scales causes it to emit each scale as its own shell. That's a structural issue, not a prompt issue.
+
+## Candidate paths for Gordon (morning)
+1. **Rodin via fal (fal-ai/hyper3d/rodin/v2.5, concat multi-view, ~$0.40/gen, existing FAL_KEY):** try a different generator that may produce welded geometry. Costs pennies. Fable said fires on fresh ruling now that T2b failed.
+2. **Blender-side welding:** write a script that joins islands by proximity (scale shells contact body at points). Risky — could soften silhouette. Would need visual diff check.
+3. **Reduce to smooth-coat prompt** (no armor scales): get a welded smooth body, then add scales as a texture/detail pass later (Step 4 quill layer already planned this way for hero quills).
+4. **Override the coherence gate:** renders pass pose gate, gate is a new critical proved by v2_fav's real duplicate; but coherence could be over-strict if scales are intentionally separate shells. Needs Gordon's ruling on whether scale-shell fragmentation is acceptable.
+5. **Rig a smooth proxy now** so bones / quill layer / spring bones progress while the body-perfection loop continues async.
+
+## Spend tracker (overnight)
+- fal Kontext rear repose: ~$0.05
+- Meshy T2b: 2 runs = 60 credits (7890 → 7830)
+- Total session: ~$3.35 / $100 monthly ceiling
+
+## STATE
+Halted at T2b, awaiting morning ruling on the five paths above.
 Board: https://gordongould.github.io/tumples-avatar-review/
 
 Review entry: V23 Step 3b — Meshy re-run failed pose gate ×2, branch halted per stop rules.
