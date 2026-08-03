@@ -68,6 +68,8 @@ Verdict: same failure class as v2_fav — generator fragments model into per-sca
 4. **Override the coherence gate:** renders pass pose gate, gate is a new critical proved by v2_fav's real duplicate; but coherence could be over-strict if scales are intentionally separate shells. Needs Gordon's ruling on whether scale-shell fragmentation is acceptable.
 5. **Rig a smooth proxy now** so bones / quill layer / spring bones progress while the body-perfection loop continues async.
 
+**Fable note (added 07:15 PT):** Paths 1 and 3 are fastest + cheapest (~$0.40 fresh Rodin, or 30 more Meshy credits with smooth-coat language). Path 4's question is legitimate — worth knowing whether Meshy's per-scale-shell topology is actually wrong for rigging, or whether Blender's join-by-distance could fuse them pre-rig. That's a 30-minute experiment if wanted. Path 5 is the long-run correct answer but delays canon body approval. My read: try Rodin first (30 min, ~$0.40, fresh generator class) before spending more Meshy credits on a known-fragmenting model.
+
 ## Spend tracker (overnight)
 - fal Kontext rear repose: ~$0.05
 - Meshy T2b: 2 runs = 60 credits (7890 → 7830)
