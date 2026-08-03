@@ -1,0 +1,20 @@
+{
+  "model_mesh": {
+    "url": "https://v3b.fal.media/files/b/0aa4e7e2/812NSPLuk68e_OvrToY7U_base_basic_pbr.glb",
+    "content_type": "application/octet-stream",
+    "file_name": "base_basic_pbr.glb",
+    "file_size": 41969216
+  },
+  "model_meshes": [],
+  "seed": 38983,
+  "textures": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e7e2/7ba0htZZ9d5FANeeQuwPk_preview.webp",
+      "content_type": "application/octet-stream",
+      "file_name": "preview.webp",
+      "file_size": 5312,
+      "width": null,
+      "height": null
+    }
+  ]
+}
