@@ -61,6 +61,23 @@ Verdict: same failure class as v2_fav — generator fragments model into per-sca
 - Prompt tweaks (including negative prompts) do not fix the fragmentation — both T2b runs had explicit "no extra tails" negatives and clean renders, but geometry still fragmented.
 - The Meshy generator's style of "pangolin armor" scales causes it to emit each scale as its own shell. That's a structural issue, not a prompt issue.
 
+## FABLE PATH RULING + CANON RATIFICATION (2026-08-03)
+CANON (law):
+- canon-baseline/ = proportion canon (longer neck per baseline)
+- Seated-upright sentry = idle_sit ANIMATION spec, NOT bind pose. Bind = neutral standing (V16 law).
+- Mane/quill treatment from recent versions = locked groom language.
+- ARCHITECTURE: body = smooth welded shell; scales = texture + normal-map; quills = instanced hero layer on spring bones. Root cause named: overlapping plates in refs shatter reconstruction into shells. Stop asking generators to build 500 scales.
+RULINGS:
+1. Sheet regen APPROVED modified: neutral STANDING, longer neck, smooth-coat (scales as texture, no overlapping plates), keep mane/quill language. Post to board, HOLD for Gordon. 3a hold ACTIVE, no waiver.
+2. Rodin smoke APPROVED FIRE NOW on EXISTING approved standing sheet (same refs, new generator class, one variable). $0.40. Judge with coherence gate. Request quad output (~50K quads).
+3. Meshy smooth-coat HELD backup — fires only on new Gordon-approved sheet if Rodin fails coherence.
+4. Standing bind = law, confirmed.
+5. Chain unchanged once body passes: gate → rig → quills → spring bones → VRM/GLB → clips → HOLD.
+6. Blender graft PARKED (mesh surgery, banned class). Only behind fresh Fable ruling after BOTH generator routes fail on the new sheet.
+No separate proportions mockup — new sheet IS the mockup and holds for Gordon. 
+DECISION TREE: Rodin passes → primary, production on approved new sheet. Rodin fails → Meshy smooth-coat on approved sheet, max 2 candidates. Both fail → halt + report; graft considered only then. NO production run on new sheet before Gordon picks it.
+PROCESS: breach closed. 4:00 auto-reset + disk recovery working as designed — keep schedule.
+
 ## Candidate paths for Gordon (morning)
 1. **Rodin via fal (fal-ai/hyper3d/rodin/v2.5, concat multi-view, ~$0.40/gen, existing FAL_KEY):** try a different generator that may produce welded geometry. Costs pennies. Fable said fires on fresh ruling now that T2b failed.
 2. **Blender-side welding:** write a script that joins islands by proximity (scale shells contact body at points). Risky — could soften silhouette. Would need visual diff check.
