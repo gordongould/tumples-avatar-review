@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e812/mcqLw65E_s_Kn2m3rvO1I_0aad600356af434eaa754eb35ec6d290.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "timings": {},
+  "seed": 3058834444,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Edit ONLY the head of this creature: replace the rounded snout with a small dark charcoal hooked raptor beak (short, sharp), keeping the large amber eye and the navy+cream quill crest intact. Also paint the top of the tail vibrant orange. Change NOTHING else: keep the smooth otter-sleek skin with absolutely no raised scales, no plates, no bumps; same standing quadruped pose, same long extended neck, same navy back, orange flanks, cream chest, same gray studio background, side profile view."
+}

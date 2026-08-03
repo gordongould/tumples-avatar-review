@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e80a/fduCW4mtym6V5xKqkxvOc_348452d44d414b3e85b3788829c544c2.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "timings": {},
+  "seed": 1565429059,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Fix the head of this creature to restore its bird-like identity: give it a small dark charcoal hooked beak (raptor-like, short) instead of the lizard snout, keep the large amber eye, and restore the swept-back stiff cream-and-navy quill crest along the crown and nape. Add the vibrant orange coloration back along the lower flanks and the top of the tail. Keep everything else identical: smooth otter-sleek skin with NO raised scales or plates, the standing quadruped pose, the long extended neck, the navy-blue back, the cream chest, gray studio background, side profile."
+}

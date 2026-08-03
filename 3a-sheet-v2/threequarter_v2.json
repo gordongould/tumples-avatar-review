@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e825/uXA1KXg9is6DbmS2aez5T_1639ffd7f59d44ab8cfe2a615d4f9c10.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "timings": {},
+  "seed": 1063915254,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Render the exact same creature from a THREE-QUARTER front-side view (roughly 45 degrees, showing the face and both sides of the front of the body): same standing quadruped pose, same smooth otter-sleek skin with no scales or plates, same small dark hooked beak and amber eyes, same navy+cream quill crest, same navy-blue back, cream chest, orange flanks and orange tail top, same gray studio background."
+}

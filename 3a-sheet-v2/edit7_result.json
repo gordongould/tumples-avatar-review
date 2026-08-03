@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e81a/R714PsDUfoA_3YhvgT_my_183c1f7eb16c47da9b587bb06e68122d.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "timings": {},
+  "seed": 696583647,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Make two small color changes to this creature, keep EVERYTHING else identical: (1) paint the top of the tail vibrant saturated orange (the tail should be orange on top, navy-blue fading on the underside); (2) recolor the head crest/mane from solid orange to a MIX of navy-blue and cream feathers \u2014 navy quills at the back with pale cream ones in front, matching a swept-back blade feather crest. Keep the smooth scale-less skin, the standing pose, the long neck, the navy back, orange flanks, cream chest, the dark hooked beak, amber eye, gray studio background, side profile. Do not change any geometry or add scales/plates."
+}

@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e81c/TiGUTCb1EhL2LLUH7G2cP_67d90613e4b94f64aadf9cfff288d2f8.jpg",
+      "width": 1024,
+      "height": 1024,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "timings": {},
+  "seed": 3542197261,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Generate a complete side-profile creature in a gray studio void using the first image for exact head identity (bird-like head, small dark hooked beak, large amber eye, swept-back cream-and-navy quill crest/mane along crown and nape) and the second image for body pose and finish (standing quadruped, long extended neck, smooth otter-sleek skin with no scales or plates, deep navy-blue back, vibrant orange along lower flanks and tail top, cream chest/throat). One coherent creature: canon head from image 1 sitting naturally at the end of the long neck of the smooth standing body from image 2. Colors painted onto smooth skin. Clean sharp anatomy, distinct toes."
+}

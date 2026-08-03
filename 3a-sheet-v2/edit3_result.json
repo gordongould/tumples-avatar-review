@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e803/4pPNc515Me-Uox8jGVCN2_cd99bac8120e4a96925a2bc311743326.jpg",
+      "width": 1024,
+      "height": 1024,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "timings": {},
+  "seed": 824353649,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Use the first image as the reference for the head, face, crest and mane: a bird-like head with a small dark hooked beak, large amber eye, and a swept-back cream-and-navy blade-like crest/mane of quill feathers along the head and nape. Use the second image for the body: keep its exact standing quadruped pose, proportions, long extended neck, smooth otter-sleek skin with no scales or plates, and the same navy-blue back, orange flanks and tail, cream chest colors. Combine them into one coherent creature: the body from image 2 with the distinctive bird-like beaked head and quill crest/mane from image 1. Gray studio background, side profile."
+}

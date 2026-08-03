@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e7fa/g70dJ6tLy-osIDxxZqf1V_ee08a3ecfba44f34ab6e7b259f3b9631.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 2551116463,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Transform this creature to have a completely smooth, sleek skin \u2014 like a smooth-skinned otter or a dolphin. Remove ALL raised scales and overlapping plates entirely. The surface must be flat, continuous, glossy skin with NO texture bumps, NO leaf-like scales, NO plates anywhere. Keep the exact same color pattern painted onto the smooth skin: deep navy-blue across the back and sides, vibrant orange along the lower flanks and the tail, cream/tan on the chest, front of the neck, and the swept-back head crest and nape mane made of smooth sleek feather-tufts. Keep the same standing quadruped pose, same proportions, same slightly long extended neck, same dark hooked beak, same large amber eye, same gray studio background, side profile view."
+}
