@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4e7f4/_l-tq8dXHCWZE9v8PAM28_db5bcff147e2495b8b68a7d0501f91f5.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 988292964,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Repose this creature to a neutral standing quadruped pose: standing on all four legs, legs vertical under the body and slightly apart, tail lifted and extended straight behind (not touching the ground), head and neck held in a natural forward neutral position with the neck slightly longer and more extended. Keep everything else identical: same creature, same deep navy-blue back and sides with orange accents, same orange tail tip, same cream/tan head, crest and nape mane, same dark hooked beak, same large amber eye, same scale pattern \u2014 but render the scales as a smooth continuous coat surface (scales visible as surface pattern/texture, NOT individual overlapping raised plates). Clean gray studio background, side profile view facing right."
+}

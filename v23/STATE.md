@@ -71,6 +71,7 @@ RULINGS:
 1. Sheet regen APPROVED modified: neutral STANDING, longer neck, smooth-coat (scales as texture, no overlapping plates), keep mane/quill language. Post to board, HOLD for Gordon. 3a hold ACTIVE, no waiver.
 2. Rodin smoke APPROVED FIRE NOW on EXISTING approved standing sheet (same refs, new generator class, one variable). $0.40. Judge with coherence gate. Request quad output (~50K quads).
 3. Meshy smooth-coat HELD backup — fires only on new Gordon-approved sheet if Rodin fails coherence.
+   RODIN SMOKE RESULT: GATE FAIL — 77,769 islands, main 19,974/500,000 (4.0%), 692 big secondaries. Render looked clean visually (standing, long neck, correct navy/orange/cream) but geometry shattered. Same failure class as Meshy on armored refs → validates ratified architecture: smooth-coat refs are a HARD requirement across BOTH generator classes.
 4. Standing bind = law, confirmed.
 5. Chain unchanged once body passes: gate → rig → quills → spring bones → VRM/GLB → clips → HOLD.
 6. Blender graft PARKED (mesh surgery, banned class). Only behind fresh Fable ruling after BOTH generator routes fail on the new sheet.
