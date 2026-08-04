@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4ebb5/_DmTiaVbrQotLAKcxf8JP_cd2ebcb556f646128413666225679821.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 3141563224,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Edit ONLY the head crest/mane: fuse all the separated feather spikes into ONE single solid closed crest \u2014 a smooth continuous ruff shape (like a closed cockatoo crest or a solid fin of feather-mass) running from the crown of the head down to the nape of the neck. Keep it LARGE and prominent \u2014 same total volume it has now, colored navy-blue at the rear blending to pale cream at the front with small orange accents. No individual spike tips visible; one clean silhouette curve. Change NOTHING else about the image \u2014 same pose, same flat painted body patterns, same beak, amber eye, neck, legs, tail, colors, gray background, side view."
+}

@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4ebb1/bNKpcx2kd-UDcx8X2fvvt_8b962b305fa54ce98291a10eed92ebc6.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 266797472,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Apply a smoothing repaint to ONLY the body, neck, legs and tail of this creature: reduce the depth and relief of every raised scale/feather plate until they look like smooth painted markings on flat skin \u2014 plates lose their ridges, shadows and overlapping edges, the same shapes and colors remain visible as soft painted pattern. Think: photograph of the same creature after a soft-blur retouch over the coat, or the scales rendered as printed flat patterns. Keep EXACTLY the same pose, proportions, color placement (navy back, orange flanks/tail accents, cream chest/neck front), beak, amber eye, crest, tail shape, leg positions, gray background, side view. Do not restyle the creature or change any colors."
+}

@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4ebab/fRnXtZeH-3QDl_SBTqGQD_32676d9544874c30982a75e02e81e29c.jpg",
+      "width": 880,
+      "height": 1184,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "timings": {},
+  "seed": 250488616,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Generate a studio side-profile render of this creature STANDING on four legs (not the seated pose shown), using the reference ONLY for identity and color language. The creature is a fictional bird-reptile hybrid rendered as a SMOOTH-BODIED animal: its body, neck, chest, legs and tail are covered in sleek bald skin like an otter or a dolphin \u2014 completely smooth, zero feathers growing out of the body, zero scales with depth, zero raised plates. The navy-blue, orange and cream feather-scale PATTERN of the reference appears on that smooth skin as FLAT PAINTED MARKINGS \u2014 like airbrushed tattoo decals showing scale-toe, soft gradients. Absolutely no 3D feather or plate geometry anywhere on body, neck, legs or tail. Deep navy-blue covers the back and outer legs, vibrant orange runs along the lower flanks and the tail, cream covers the chest and front of neck \u2014 color blocking identical to the reference. The HEAD keeps two real geometry features: (a) a strong substantial dark charcoal hooked raptor beak and large amber eye, (b) ONE large solid crest of feather-mass \u2014 a single smooth closed ruff running crown to nape like a shut cockatoo crest, navy-blue at the rear blending to pale cream in front with orange accents at the base \u2014 one clean silhouette curve, no separated spikes. Neck long and thick, extended forward naturally. Tail thick at base, lifted, extended straight behind. Four legs planted vertical, slightly apart. Neutral gray studio background, side profile facing right, soft even lighting."
+}

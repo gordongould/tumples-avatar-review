@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4eba3/PhBEppxP2P72JsvL7c2fN_f1d8a69c05b24fe49bbc28075edc9211.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 2398662809,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Remove ALL feather geometry from this creature's body, neck, legs and tail. Replace every raised feather, spike, tuft and scale with COMPLETELY FLAT SMOOTH SKIN while keeping the exact same colors, painted patterns, shapes and markings: the feather shapes must become flat PAINTED tattoo-like patterns on smooth bald skin with zero depth, zero relief, zero casting shadows \u2014 like a decal on a mannequin. Keep ONLY these as geometry: the head crest (leave it as-is for now), the beak, the eye, the body shape, the four legs, the tail shape, the pose. Everything else about surface = flat paint. Do not change colors, pose, proportions, background, or camera angle. Side profile facing right, gray studio background."
+}

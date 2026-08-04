@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4eb9e/cde6yiZjo1N33ZvA8CbPB_09ba8646f4ff47a885e38dfd61b5c717.jpg",
+      "content_type": "image/jpeg",
+      "file_name": null,
+      "file_size": null,
+      "width": 880,
+      "height": 1184
+    }
+  ],
+  "timings": {},
+  "seed": 517997835,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Edit ONLY the surface treatment of this creature, keep all geometry, pose, proportions, colors and identity EXACTLY as they are: (1) FLATTEN the feather-scale coat into PAINT \u2014 the scale pattern stays fully visible as painted surface detail on smooth skin, but all raised overlapping plates, plate edges, plate shadows and plate-depth disappear; nothing breaks the body outline; imagine the same creature rendered with its scales as a tattoo/painted texture on smooth skin instead of physical plates. (2) Fuse the head crest into ONE solid sculptural ruff \u2014 a single continuous smooth-haired/feather-mass shape (like a grebe or cockatoo crest closed into one smooth form) running from crown to nape, navy at the rear blending to pale cream at the front with orange accents, no individual separated spikes. Keep the strong hooked beak, amber eye, long thick neck, thick lifted tail, four planted separated legs, standing pose, navy/orange/cream color blocking, gray studio background, side profile facing right. Do NOT smooth away the ruff volume \u2014 it must stay big and read in the silhouette \u2014 only make it one smooth shape."
+}

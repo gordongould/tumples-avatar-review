@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4ebb9/B1IqeQGaTvzes994GOnNh_a111749a81bb4d05ba7dfebb93b945da.jpg",
+      "width": 1024,
+      "height": 1024,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "timings": {},
+  "seed": 2712767599,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Generate a full-body SIDE-PROFILE STUDIO RENDER of the creature, STANDING on four planted legs (vertical, slightly apart), thick tail lifted and extended straight behind, long thick neck extended forward at an alert angle, facing right, on a neutral gray studio background. The two references define its identity.\n\nSTRUCTURE (geometry \u2014 keep big and sculptural):\n- HEAD: strong substantial dark charcoal hooked raptor beak, large amber eye.\n- CREST: the creature's signature feature \u2014 ONE large SOLID crest of feather-mass running from crown to nape. This is a single continuous smooth closed shape like a shut cockatoo crest or a solid blade/fin (NOT separate feather spikes). It is the biggest silhouette feature of the head/neck. Color: navy-blue at the rear, pale cream toward the front, warm orange accents at the base \u2014 as in the references.\n\nSURFACE (paint \u2014 zero relief):\n- The body, neck, chest, legs and tail use a flat MATTE ILLUSTRATION finish: every scale/feather shape from the reference appears only as flat COLOR SHAPES \u2014 poster-like, painted, zero 3D relief, zero ridges, zero casting shadows between plates. Absolutely no sculpted plate depth anywhere. The same pattern visible in the references (navy dorsal, orange flanks + tail accents, cream chest + throat) painted flat.\n\nThe final image should read as a clean concept-art-style render: strong sculptural head+crest+body, flat painted coat pattern."
+}

@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "url": "https://v3b.fal.media/files/b/0aa4ebb3/5v2ogpde6RpeA6o-Q-Xsh_b50ddd417eae47268c63bddc72cb20ec.jpg",
+      "width": 1024,
+      "height": 1024,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "timings": {},
+  "seed": 2060159857,
+  "has_nsfw_concepts": [
+    false
+  ],
+  "prompt": "Edit ONLY the head crest of the SECOND image: reshape it into one large SOLID closed ruff \u2014 imagine the spikes fusing into a single smooth curved blade of feather-mass (like a shut cockatoo crest or a solid fin), running from the crown down to the nape, as big in total volume as the current spikes. Color it exactly like the crest in the FIRST reference image: navy-blue at the rear, pale cream toward the front, warm orange accents at the base. Keep everything else in the second image unchanged \u2014 same pose, same smooth painted body patterns, same beak, amber eye, neck, legs, tail, colors, gray studio background, side profile facing right."
+}
